@@ -10,6 +10,8 @@ I'm currently studying.
 # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MichaelPakir&show_icons=true&locale=en&layout=compact" alt="MichaelPakir" /></p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=michaelpakir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -21,5 +23,3 @@ I'm currently studying.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MichaelPakir&show_icons=true&locale=en&layout=compact" alt="MichaelPakir" /></p>
